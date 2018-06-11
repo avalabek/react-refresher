@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Raleway+Dots|Righteous');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Rock+Salt|Righteous');
 div.note {
     
     height: 325px;
     width: 325px;
     background-color: #FFFFA5;
     margin: 2px 0;
-    position: absolute;
+    position: relative;
+    font-family: 'Rock Salt', cursive;
     /* cursor: -webkit-grab;
     -webkit-box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2); */
     box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2);
