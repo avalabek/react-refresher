@@ -5,9 +5,9 @@ div.note {
     width: 325px;
     background-color: #FFFFA5;
     margin: 2px 0;
-    position: relative;
+    position: absolute;
     font-family: 'Rock Salt', cursive;
-    /* cursor: -webkit-grab;
+    cursor: -webkit-grab;
     -webkit-box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2); */
     box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2);
 }
