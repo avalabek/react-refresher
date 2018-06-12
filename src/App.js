@@ -4,6 +4,7 @@ import './App.css';
 // import Note from './Note';
 import Board from './Board';
 
+
 class App extends Component {
   render() {
     return (
